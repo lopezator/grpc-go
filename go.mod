@@ -16,4 +16,4 @@ require (
 	google.golang.org/protobuf v1.25.0
 )
 
-replace goole.golang.org/grpc => github.com/lopezator/grpc-go v1.33.1
+replace goole.golang.org/grpc => github.com/lopezator/grpc-go v1.33.2
